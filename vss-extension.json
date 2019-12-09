@@ -2,8 +2,8 @@
     "manifestVersion": 1,
     "id": "my-sample-task",
     "name": "Azure DevOps Sample Task",
-    "version": "0.0.20",
-    "publisher": "mastloui",
+    "version": "0.0.21",
+    "publisher": "{{YOUR_PUBLISHER_NAME}}",
     "targets": [
         {
             "id": "Microsoft.VisualStudio.Services"
